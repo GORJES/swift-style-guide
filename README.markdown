@@ -1,7 +1,7 @@
 # The Official Gorjes Swift Style Guide.
 ### Updated for Swift 5
 
-We have many different developers working on our codebase, and each person has their own way of writing code. However, through time, having every body write code in their way can make our codebase inconsistent, which is not pleasent. This style guide serves as the style guide which everybody should adhere to so that the codebase is kept in an excellent status. 
+We have many different developers working on our codebase, and each person has their own way of writing code. However, through time, having everybody write code in their way can make our codebase inconsistent, which is not pleasent. This style guide serves as the style guide which everybody should adhere to so that the codebase is kept in an excellent status. 
 
 ## Table of Contents
 
