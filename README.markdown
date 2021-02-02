@@ -1120,7 +1120,7 @@ Smiley faces are a very prominent style feature of the [raywenderlich.com](https
 ```
 
 ## References
-
+* [RayWenderlich Swift Style Guide](https://github.com/raywenderlich/swift-style-guide)
 * [The Swift API Design Guidelines](https://swift.org/documentation/api-design-guidelines/)
 * [The Swift Programming Language](https://developer.apple.com/library/prerelease/ios/documentation/swift/conceptual/swift_programming_language/index.html)
 * [Using Swift with Cocoa and Objective-C](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/BuildingCocoaApps/index.html)
