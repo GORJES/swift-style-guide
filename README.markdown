@@ -6,7 +6,6 @@ We have many different developers working on our codebase, and each person has t
 ## Table of Contents
 
 * [Correctness](#correctness)
-* [Using SwiftLint](#using-swiftlint)
 * [Naming](#naming)
   * [Prose](#prose)
   * [Delegates](#delegates)
@@ -57,10 +56,6 @@ We have many different developers working on our codebase, and each person has t
 ## Correctness
 
 Strive to make your code compile without warnings. This rule informs many style decisions such as using `#selector` types instead of string literals.
-
-## Using SwiftLint
-
-When writing for raywenderlich.com, you are strongly encouraged — and some teams may require — to use our SwiftLint configuration. See the [SwiftLint Policy](SWIFTLINT.markdown) for more information.
 
 ## Naming
 
